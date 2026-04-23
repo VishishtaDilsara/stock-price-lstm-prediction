@@ -6,7 +6,7 @@ Stock price prediction using LSTM with data preprocessing and time series
 This project predicts stock prices using LSTM neural networks.
 
 ## Steps
-- Data collection from Yahoo Finance
+- Data collection
 - Data preprocessing
 - Sequence creation
 - LSTM model training
